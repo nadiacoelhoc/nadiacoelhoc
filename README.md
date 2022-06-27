@@ -8,7 +8,7 @@
 
 #
 
-### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
+### Languages and Tools:
 <div style="display: inline-block">
   <img align="center" alt="Nadia-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Nadia-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -39,7 +39,7 @@
  
 # 
   
-### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 <img height="30" src="https://c.tenor.com/wLuGDio_sbIAAAAi/piyueshmodi-curiouspiyuesh.gif"/>
+### Connect with me <img height="35" src="https://c.tenor.com/wLuGDio_sbIAAAAi/piyueshmodi-curiouspiyuesh.gif"/>
 
 <p align="center">
   <br>
@@ -50,14 +50,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-  
-
 
 #
   
-#### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://c.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif"></h3>
+#### Thanks for visiting <img height="40" src="https://c.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif"></h3>
 
 #
 
-#### 𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/nadiacoelhoc">Nádia Coelho</a></h4>
-#### 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 27/06/2022
+#### Credit: <a href="https://github.com/nadiacoelhoc">Nádia Coelho</a></h4>
+#### Last edited on: 27/06/2022
