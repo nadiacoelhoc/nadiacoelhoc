@@ -25,11 +25,11 @@
   </summary>
   <br>
 
-  <div>
-    <a href="https://github.com/nadiacoelhoc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nadiacoelhoc&show_icons=true&theme=panda&include_all_commits=true*count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiacoelhoc&layout=compact&langs_count=5&theme=panda"/>
-  </div>
+<div align="center">
+  <a href="https://github.com/nadiacoelhoc">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nadiacoelhoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiacoelhoc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  #   
     
